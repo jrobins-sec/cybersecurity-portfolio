@@ -1,0 +1,22 @@
+# Network Traffic Analysis Lab
+
+## Objective
+Analyze network traffic to identify normal vs suspicious behavior.
+
+## Tools
+- Wireshark
+- TCPdump
+
+## What I Did
+- Captured live DNS and HTTP traffic
+- Inspected TCP handshakes
+- Identified common service ports
+
+## Key Findings
+- Observed DNS queries in plaintext
+- Identified HTTP traffic without encryption
+
+## Skills Demonstrated
+- Packet inspection
+- Protocol analysis
+- Network troubleshooting
